@@ -1,0 +1,2 @@
+[05-Apr-2018 03:10:40 UTC] PHP Warning:  require(/home/michaelmike/public_html/airlines/../vendor/autoload.php): failed to open stream: No such file or directory in /home/michaelmike/public_html/airlines/index.php on line 24
+[05-Apr-2018 03:10:40 UTC] PHP Fatal error:  require(): Failed opening required '/home/michaelmike/public_html/airlines/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/michaelmike/public_html/airlines/index.php on line 24
